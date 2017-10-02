@@ -7,7 +7,7 @@ using System.Threading.Tasks;
 namespace AdresDefteri
 {
     class Adres
-    {
+    { 
         public string AdSoyad;
         public string Telefon;
         public string Eposta;
