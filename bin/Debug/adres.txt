@@ -1,0 +1,4 @@
+Emir Civaş,emir@wissen.com,(216)-123-45-67
+Caner Mollaoğlu,caner@wissen.com,(507)-789-45-65
+Duygu Öğünç,d@d.com,(544)-741-78-96
+Mesut Öztürk,mesut@wissen.com,(535)-896-54-23

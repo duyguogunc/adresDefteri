@@ -1,0 +1,13 @@
+c:\users\wissen\documents\visual studio 2015\Projects\AdresDefteri\bin\Debug\AdresDefteri.exe.config
+c:\users\wissen\documents\visual studio 2015\Projects\AdresDefteri\bin\Debug\AdresDefteri.exe
+c:\users\wissen\documents\visual studio 2015\Projects\AdresDefteri\bin\Debug\AdresDefteri.pdb
+c:\users\wissen\documents\visual studio 2015\Projects\AdresDefteri\obj\Debug\AdresDefteri.csprojResolveAssemblyReference.cache
+c:\users\wissen\documents\visual studio 2015\Projects\AdresDefteri\obj\Debug\AdresDefteri.Form1.resources
+c:\users\wissen\documents\visual studio 2015\Projects\AdresDefteri\obj\Debug\AdresDefteri.Properties.Resources.resources
+c:\users\wissen\documents\visual studio 2015\Projects\AdresDefteri\obj\Debug\AdresDefteri.YeniAdres.resources
+c:\users\wissen\documents\visual studio 2015\Projects\AdresDefteri\obj\Debug\AdresDefteri.csproj.GenerateResource.Cache
+c:\users\wissen\documents\visual studio 2015\Projects\AdresDefteri\obj\Debug\AdresDefteri.exe
+c:\users\wissen\documents\visual studio 2015\Projects\AdresDefteri\obj\Debug\AdresDefteri.pdb
+C:\Users\Wissen\Source\Repos\adresDefteri\bin\Debug\AdresDefteri.exe.config
+C:\Users\Wissen\Source\Repos\adresDefteri\obj\Debug\AdresDefteri.exe
+C:\Users\Wissen\Source\Repos\adresDefteri\obj\Debug\AdresDefteri.pdb
